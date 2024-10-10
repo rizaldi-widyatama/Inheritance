@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Worlds!");
 
             Book buku = new Book();
             buku.Title = "Tutorial Jago PBO dalam 1 detik";
